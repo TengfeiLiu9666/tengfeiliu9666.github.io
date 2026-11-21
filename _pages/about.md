@@ -38,8 +38,9 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
+- *2026.11* : &nbsp; 🎉 Our paper entitled "Disease Progression-aware and Visual-Focused Longitudinal Radiology Report Generation" has been accepted by IEEE TMM
 - *2026.07* : &nbsp; 🎉 获批国家资助博士后研究人员计划C档资助!
-- *2026.05* : &nbsp; 🎉 Our paper entitled "REFD: Relation-aware Entity Feature Decoupling for Multimodal Knowledge GraphCompletion" has been accepted by IEEE TMM!
+- *2026.05* : &nbsp; 🎉 Our paper entitled "REFD: Relation-aware Entity Feature Decoupling for Multimodal Knowledge Graph Completion" has been accepted by IEEE TMM!
 - *2026.05* : &nbsp; 🎉 Our paper entitled "[GeoEvo: Identity-Aware Potential Game with Geometric Evolution for Personalized Multimodal Federated Learning](https://icml.cc/virtual/2026/poster/63496)" has been accepted by ICML 2026!
 - *2026.05* : &nbsp; 🎉 Our paper entitled "[Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion](https://icml.cc/virtual/2026/poster/63342)" has been accepted by ICML 2026!
 - *2026.04* : &nbsp; 🎉 Our paper entitled "[Human-Like Multi-Modal Fake News Detection via Reflective Summarization and Large–Small Model Collaboration](https://ieeexplore.ieee.org/document/11517580)" has been accepted by IEEE TNNLS!
